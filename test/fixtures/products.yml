@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+ruby_book:
+  title: Programming Ruby
+  description: Filler description
+  image_url: ruby.png
+  price: 1234
+
+rails_book:
+  title: Agile Web Development with Rails
+  description: Description of the book
+  image_url: rails.png
+  price: 421
